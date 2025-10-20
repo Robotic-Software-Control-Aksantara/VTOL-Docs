@@ -1,0 +1,17 @@
+node_modules/
+.docs/vitepress/cache/
+.vitepress/dist/
+dist/
+.env
+.env.*.local
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+pnpm-error.log*
+lerna-debug.log*
+.vscode/
+.idea/
+*.swp
+*.bak
+*.swo
