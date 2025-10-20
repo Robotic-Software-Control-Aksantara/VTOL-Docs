@@ -4,6 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Alkras Docs",
   description: "This is Altigen Krasnala (Vertical Take-OFf Landing Team of Aksantara ITB) technical documentation platform. This is integrated site that provide technical documentation for manufacture to robotics software control.",
+  base: '/VTOL-Docs/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
