@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as s}from"./chunks/framework.CHKm5_mw.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"system/propulsion/index.md","filePath":"system/propulsion/index.md"}'),o={name:"system/propulsion/index.md"};function n(r,a,i,p,c,d){return s(),t("div")}const l=e(o,[["render",n]]);export{_ as __pageData,l as default};

@@ -1,3 +1,8 @@
+---
+next:
+  text: 'Overview'
+  link: '/overview'
+---
 # Evaluasi buat VTOL 2025
 ## Pribadi
 Pertama-tama, buat aku sendiri sebagai pribadi, aku terlalu overconfidence dalam manajemen waktu dan pekerjaan. Mengambil banyak kegiatan lain dari akademik, dua proyek riset, dan kepanitiaan tetapi mungkin tidak realistis atau dibarengi dengan planning yang mumpuni. Kadang-kadang ceroboh.  Lalu terlalu mengikuti dan mungkin menjadi salah satu yang memaksa anggota tim lain untuk bekerja, tf, dan mengambil data di hari-hari terakhir dan kurang peka akan kapabilitas dan kesehatan anggota tim. Terutama di hari-hari terakhir yang mengakibatkan tim overwork, stress, dan kesehatannya down. Padahal di hari terakhir pengambilan data koordinat masih mungkin (tim lain mengambil data tepat sebelum lomba dimulai) sedangkan kita terlambat dan kurang siap juga karena ada masalah hardware beberapa menit sebelum lomba, ini bisa dicegah kalau malamnya tidak begadang dan dengan itu bisa datang lebih pagi dan lebih siap. 

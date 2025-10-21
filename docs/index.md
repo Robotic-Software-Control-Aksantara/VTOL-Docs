@@ -11,17 +11,29 @@ hero:
       text: KRTI 2025 Evaluation
       link: /evaluation/
     - theme: alt
-      text: AMD
-      link: /amd
+      text: Overview
+      link: /overview
     - theme: alt
-      text: AHC
-      link: /ahc
+      text: Design
+      link: /design
     - theme: alt
-      text: manufacture
-      link: /rsc
+      text: System
+      link: /system
     - theme: alt
-      text: RSC
-      link: /rsc
+      text: Design/AMD
+      link: /design/amd
+    - theme: alt
+      text: Design/manufacture
+      link: /design/manuf
+    - theme: alt
+      text: System/AHC
+      link: /system/ahc
+    - theme: alt
+      text: System/RSC
+      link: /system/rsc
+    - theme: alt
+      text: System/Propul
+      link: /system/propulsion
 
 features:
   - title: Design & manufacture Overview
@@ -40,4 +52,4 @@ features:
 ---
 
 ## Objective
-Situs ini dibuat agar setiap departemen atau anggota dapat mengabadikan permasalahan dan solusinya sendiri dalam bentuk dokumentasi. Agar setiap generasi tidak perlu belajar dari nol dan reset. Agar setiap generasi dapat belajar dari generasi sebelumnnya. Agar generasi berikutnya dapat belajar dari generasi saat ini. Agar setiap generasi dapat bertumbuh dan berkembang menjadikan tim yang lebih kuat setiap masanya. Dipersembahkan oleh RSC 2025 untuk Altigen Krasnala XXXX.
+Situs ini dibuat agar setiap departemen atau anggota dapat mengabadikan permasalahan dan solusinya sendiri dalam bentuk dokumentasi. Agar setiap generasi tidak perlu belajar dari nol dan reset. Agar setiap generasi dapat belajar dari generasi sebelumnnya. Agar generasi berikutnya dapat belajar dari generasi saat ini. Agar setiap generasi dapat bertumbuh dan berkembang menjadikan tim yang lebih kuat setiap masanya. Dipersembahkan oleh RSC VTOL 2025 untuk Altigen Krasnala XXXX.

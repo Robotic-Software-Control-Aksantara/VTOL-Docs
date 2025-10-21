@@ -10,6 +10,7 @@ export default defineConfig({
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Evaluation', link: '/evaluation' },
+      { text: 'Overview', link: '/overview' },
     ],
 
     sidebar: [
@@ -19,24 +20,39 @@ export default defineConfig({
           { text: 'Evaluation', link: '/evaluation' },
           { 
             text: 'Overview',
+            link: '/overview',
             items: [
-              { text: 'All', link: '/overview' },
               { text: 'System Overview', link: '/overview/system' },
               { text: 'Design Overview', link: '/overview/design' }
             ]
           },
           { 
             text: 'System Docs',
+            link: '/system',
             items: [
-              { text: 'AHC', link: '/ahc' },
-              { text: 'RSC', link: '/rsc' },
+              { text: 'AHC', link: '/system/ahc' },
+              { text: 'RSC', link: '/system/rsc', 
+                items: [
+                  { text: 'Fundamental', link: 'system/rsc/fundamental'}, 
+                  { text: 'Software Design', link: 'system/rsc/software_design'},
+                  { text: 'Software Architecture', link: 'system/rsc/software_architecture' },
+                  { text: 'Software Behavior', link: 'system/rsc/software_behavior' },
+                  { text: 'Getting Started', link: 'system/rsc/getting_started' },
+                  { text: 'Setup', link: 'system/rsc/setup' },
+                  { text: 'Usage', link: 'system/rsc/usage' },
+                  { text: 'Troubleshooting', link: 'system/rsc/troubleshooting' },
+                  { text: 'FaQ', link: 'system/rsc/faq' },
+                  { text: 'Advanced Topics', link: 'system/rsc/advanced_topics' },
+                ] },
+              { text: 'Propulsion', link: '/system/rsc' },
             ]
           },
           { 
             text: 'Design Docs',
+            link: '/design',
             items: [
-              { text: 'AMD', link: '/amd' },
-              { text: 'Manufacture', link: '/manuf' },
+              { text: 'AMD', link: '/design/amd' },
+              { text: 'Manufacture', link: '/design/manuf' },
             ]
           }
         ]
